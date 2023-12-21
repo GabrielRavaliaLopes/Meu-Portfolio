@@ -68,7 +68,7 @@ header img{
 
 @media screen and (max-width: 450px) {
     .conteudo {
-        width: 70%; /* Ocupa toda a largura disponível */
+        width: 80%; /* Ocupa toda a largura disponível */
     }
 }
 
